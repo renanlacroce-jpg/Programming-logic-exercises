@@ -1,2 +1,3 @@
 # Programming-logic-exercises
-Códigos que fiz através de exercícios de cursos  /  Codes I made through course exercises.
+Exercises and projects created while studying programming logic through courses
+Exercícios e projetos criados durante meus estudos de lógica de programação através de cursos.
